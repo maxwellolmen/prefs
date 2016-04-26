@@ -1,0 +1,15 @@
+main: com.maxwellolmen.preferences.Main
+name: Prefs
+description: Preferences
+version: 1.0
+author: Maxwell Olmen
+commands:
+  prefs:
+    description: The main preferences command.
+    aliases: [pref, preference, preferences]
+  msg:
+    description: The messaging command.
+    aliases: [message, m, pm, dm, tell, t, whisper, w]
+  friends:
+    description: Open the friends GUI.
+    aliases: [f, friend]

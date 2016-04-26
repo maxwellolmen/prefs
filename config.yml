@@ -1,0 +1,30 @@
+# Don't use a / for the commands.
+stacker:
+  enable-command: stacker toggle
+  disable-command: stacker toggle
+  
+gui:
+  stacker: MAGMA_CREAM
+  visibility: EYE_OF_ENDER
+  chat: PAPER
+  messaging: MAP
+  friends: RED_ROSE
+  slots:
+  - 2
+  - 4
+  - 6
+  - 29
+  - 33
+prefs:
+  example-uuid:
+    stacker: false
+    visibility: true
+    chat: true
+    messaging: true
+    friends: true
+    friendlist: []
+    incoming-requests: []
+    outgoing-requests: []
+    lastjoin: 1461441437412
+    user: ExampleUsername
+open-requests: []
